@@ -30,6 +30,18 @@ Botones: Botón (Comienza),
          Botón ( Noticias),
 
          Botón (alternativo).
+         
+
+Proyecto Final
+
+Nombre: Real Chile
+
+Usuario:fabiola@1981
+
+Contraseña xek5O0LMDYzFAAPZQ#
+
+Prefijo dl
+        
 
          
 
