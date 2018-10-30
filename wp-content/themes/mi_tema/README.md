@@ -49,6 +49,12 @@ Galeria ; Fotos de Disciplinas Arqueros, Defensas, Delanteros.
 
 Siendo esta ultima dinamica.
 
+Descripcion General:
+
+En este proyecto utilice Bootstrap, Font Awesome, jquery,
+
+javascript, html5, css3, php, Wordpress.
+
 
          
 
